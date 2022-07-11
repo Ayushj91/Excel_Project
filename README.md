@@ -1,5 +1,3 @@
-# Excel-Project
-https://shalujha.github.io/Excel-Project/
 
 # What is this project all about?
 This is basically an Excel clone that have almost all features of Excel.The features are :<br/>
